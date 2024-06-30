@@ -1,5 +1,4 @@
 import fs from 'fs';
-import path from 'path';
 import axios from 'axios';
 import sharp from 'sharp';
 import { obtaintrueurl, retrieveapidata } from './utils.js';
